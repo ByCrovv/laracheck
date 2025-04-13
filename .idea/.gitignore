@@ -1,0 +1,26 @@
+# JetBrains IDE config
+.idea/
+
+# macOS dosyaları
+.DS_Store
+
+# Bash history
+*.bash_history
+
+# Windows thumbnail cache
+Thumbs.db
+
+# VSCode settings (eğer varsa)
+.vscode/
+
+# Linux/Mac temporary files
+*~
+
+# Node / PHP / Python gibi projelerde sık karşılaşılanlar
+node_modules/
+vendor/
+.env
+/modules.xml
+/php.xml
+/vcs.xml
+/workspace.xml
