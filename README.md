@@ -7,13 +7,13 @@ This utility checks whether your globally installed Laravel installer is up-to-d
 ### Linux / macOS
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/laravel-update-checker/main/install.sh)
+bash <(curl -s [https://raw.githubusercontent.com/YOUR_USERNAME/laravel-update-checker/main/install.sh](https://raw.githubusercontent.com/ByCrovv/laracheck/master/install.sh))
 ```
 
 
 ### Windows
 ```
-irm https://raw.githubusercontent.com/YOUR_USERNAME/laravel-update-checker/main/install.ps1 | iex
+irm [https://raw.githubusercontent.com/YOUR_USERNAME/laravel-update-checker/main/install.ps1](https://raw.githubusercontent.com/ByCrovv/laracheck/master/install.ps1) | iex
 ```
 
 
